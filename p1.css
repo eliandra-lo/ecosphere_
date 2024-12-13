@@ -1,0 +1,40 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why Donate Through Us?</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        .donation-section {
+            background-color: #83c146;
+            color: white;
+            padding: 30px;
+            max-width: 1600px;
+            border-radius: 10px;
+            line-height: 3.0;
+        }
+
+        .donation-section h2 {
+            font-size: 26px;
+            font-weight: bold;
+            margin: 0 0 20px;
+            text-align: left;
+        }
+
+        .donation-section p {
+            margin: 10px 0;
+            font-size: 18px;
+        }
+
+        .donation-section p strong {
+            font-weight: bold;
+        }
+    </style>

@@ -1,0 +1,53 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Trust Matters</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        .trust-section {
+            background-color: #83c146;
+            color: white;
+            padding: 30px;
+            max-width: 1600px;
+            border-radius: 10px;
+            line-height: 2.4;
+        }
+
+        .trust-section h2 {
+            font-size: 26px;
+            font-weight: bold;
+            margin: 0 0 20px;
+            text-align: left;
+        }
+
+        .trust-section p {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+
+        .trust-section ul {
+            list-style-type: disc;
+            padding-left: 20px;
+            margin: 15px 0;
+        }
+
+        .trust-section ul li {
+            margin: 10px 0;
+            font-size: 18px;
+        }
+
+        .trust-section .closing-text {
+            margin-top: 15px;
+            font-size: 18px;
+        }
+    </style>
+</head>
